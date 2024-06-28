@@ -22,6 +22,12 @@ body {
 ul {
   list-style: none;
 }
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* End Global Rules */
 /* Start Components */
 
